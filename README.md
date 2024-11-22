@@ -13,7 +13,7 @@ A beautiful and responsive photo gallery application that dynamically fetches im
 
 ## Live Demo
 
-You can check out the live version of the project here: [Your Live Site URL]
+You can check out the live version of the project here: [Live](https://photo-gallery-chi-nine.vercel.app/)
 
 ## Technologies Used
 
@@ -28,7 +28,7 @@ To run the project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/photo-gallery.git
+   git clone https://github.com/pranjal-rastogi/PhotoGallery/
    ```
 
 2. Navigate into the project directory:
